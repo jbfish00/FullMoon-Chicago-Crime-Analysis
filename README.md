@@ -1,4 +1,4 @@
-# FullMoonChess — Chicago Crime Analysis
+# FullMoon — Chicago Crime Analysis
 
 **BYU 2024 Case Study** | R & Python
 
